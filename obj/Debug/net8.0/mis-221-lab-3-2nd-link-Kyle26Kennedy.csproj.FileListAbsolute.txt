@@ -1,0 +1,15 @@
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.AssemblyInfoInputs.cache
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.AssemblyInfo.cs
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.csproj.CoreCompileInputs.cache
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.sourcelink.json
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\bin\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.exe
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\bin\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.deps.json
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\bin\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.runtimeconfig.json
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\bin\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.dll
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\bin\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.pdb
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.dll
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\refint\mis-221-lab-3-2nd-link-Kyle26Kennedy.dll
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.pdb
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\mis-221-lab-3-2nd-link-Kyle26Kennedy.genruntimeconfig.cache
+C:\Users\ATLHa\OneDrive\Desktop\MIS221\mis221_stuff\mis-221-lab-3-2nd-link-Kyle26Kennedy\obj\Debug\net8.0\ref\mis-221-lab-3-2nd-link-Kyle26Kennedy.dll
